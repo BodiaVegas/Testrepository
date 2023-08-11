@@ -1,0 +1,9 @@
+.qwe {
+    border-radius: 20px;
+
+}
+body {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
